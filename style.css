@@ -1,0 +1,34 @@
+.meat{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.S{
+width: 125px;
+border-radius: 40px;
+border-color: lightblue;
+background-color: white;
+color: lightblue;
+margin-bottom: 10px;
+}
+
+.F{
+    border-radius: 50%;
+    background-color: cyan;
+    margin-bottom: 10px;
+}
+
+.gg{
+    color: white;
+}
+
+.W{
+    background-color: blue;
+    width: 150px;
+}
+
+.gh{
+    color: white;
+}
